@@ -1,0 +1,16 @@
+{
+  "name": "express-lecture",
+  "version": "1.0.0",
+  "description": "Express lecture for October 2021 Machester codes cohort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
